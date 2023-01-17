@@ -3,16 +3,16 @@
 # ¿Quién soy?
 Soy un <b>Fullstack Developer<b/> 
   
- Desde los 17 Años comence a introducirme en ete hermoso mundo de la programación, Comenzando por aprender algoritmos basicos en Java. Sin dudas fue una gran experiencia desafiante para mi por ser un Developer Jr
+ Desde los 17 años comencé a introducirme en este hermoso mundo de la programación, comenzando por aprender algoritmos básicos en Java. Sin dudas fue una gran experiencia desafiante para mi por ser un Developer Jr
   
-# ¿Que hago?
-Actualmente me dedico a realizar proyectos que son un desafio para mis conocimientos, por lo que me obligo a aprender nuevas tegnologias y funcionalidades.
+# ¿Qué hago?
+Actualmente me dedico a realizar proyectos que son un desafío para mis conocimientos, por lo que me obligó a aprender nuevas tecnologías y funcionalidades.
 
-# ¿A donde me dirijo?
+# ¿A dónde me dirijo?
 Mi objetivo principal es impactar al mundo con mis servicios.
 
-# ¿Que tecnologías uso?
-Gracias a la facultad, cursos y bootcam Soy Henry: Logre aprender las siguientes tecnologias.
+# ¿Qué tecnologías uso?
+Gracias a la facultad, cursos y bootcamp Soy Henry: Logre aprender las siguientes tecnologías.
 
 - Javascript
 - Typescript
@@ -31,6 +31,7 @@ Claramente incluyendo HTML, Css, Boostrap, Style-Component, Python.
 
 Juntos podemos realizar un proyecto que cambie y revolucione el mundo.
 
-# Linkedln, Correo
+# Linkedin
 https://www.linkedin.com/in/lucas-alegre-org/
+# Correo
 lucasalegre.web@gmail.com
