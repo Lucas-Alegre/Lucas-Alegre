@@ -26,6 +26,10 @@ Gracias a la facultad, cursos y bootcamp Soy Henry: Logre aprender las siguiente
 - Git
 
 Claramente incluyendo HTML, Css, Boostrap, Style-Component, Python.
+  
+# ¡Mis proyectos!
+Gracias a Henry Bootcam, he realizado dos grandes projectos de Ecommerce que luego puedes hechar un vistado
+  - Aqui te dejo una pequeña demostración de lo que logré hacer:  https://kingcomm.vercel.app/
 
 # <b>No dudes en contactarme!<b/>
 
